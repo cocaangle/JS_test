@@ -1,4 +1,4 @@
 $("document").ready(function() {
-//  "use strict";
+        "use strict";
 	$("#content").append("<strong>JavaScript is working!</strong>");
 });
